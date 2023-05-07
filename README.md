@@ -23,7 +23,7 @@
     <ul>
         <li>Java</li>
         <li>Python</li>
-        <li>MySql/li>
+        <li>MySql</li>
         <li>HTML/HTML5</li>
         <li>CSS/CSS3</li>
         <li>Javascript</li>
