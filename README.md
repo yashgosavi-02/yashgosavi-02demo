@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif">
 
 
-- 🌱 I’m currently learning **Solidity, Smart Contracts**
+- 🌱 I’m currently learning **Back-End & Blockchain**
 
 - 💬 Ask me about **WEB DEV, WEB 3.0**
 
