@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts**
 
-- 💬 Ask me about **WEB DEV, WEB 3.0*
+- 💬 Ask me about **WEB DEV, WEB 3.0**
 
 - 📫 How to reach me **iyashgosavi02@gmail.com**
 
